@@ -3,4 +3,4 @@ Esta es una prueba de Jose Cortez
 
 para aprender el manejo de Git y github :P
 
-Agregamos lineas adicionales para ver que ocurre.
+ahora estoy viendo que ocurre con los cambios en una linea y mas cambios
