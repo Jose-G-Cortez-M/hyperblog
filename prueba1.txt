@@ -4,3 +4,6 @@ Esta es una prueba de Jose Cortez
 para aprender el manejo de Git y github :P
 
 ahora estoy viendo que ocurre con los cambios en una linea y mas cambios
+
+
+una linea mas para ver que pasa
